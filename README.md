@@ -6,7 +6,6 @@ Welcome to my GitHub profile! My name is Jakub Grabarczyk, and I am currently wo
 
 - **Name:** Jakub Grabarczyk
 - **Current Role:** Data Analyst | Power BI Developer
-- **Education:** Master’s Degree in Finance
 - **Interests:** Technology, Data Engineering, Automation
 
 ## Skills and Technologies
